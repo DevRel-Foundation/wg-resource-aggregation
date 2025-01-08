@@ -15,7 +15,7 @@ Our regular calls are {insert times}. You can find the event in the global DRF c
 
 |    Name  | GH Handle |  Discord Handle |  LinkedIn  | 
 |    ---   |     ---   |      ---        |     ---    |
-| person 1 | @ awesome |     @ person    | @ linkedin |
+| Jayson DeLancey | @j12y |     @j12y    | [in/jaysondelancey](https://linkedin.com/in/jaysondelancey) |
 | person 2 | @ awesome |     @ person    | @ linkedin |
 | person 3 | @ awesome |     @ person    | @ linkedin |
 
