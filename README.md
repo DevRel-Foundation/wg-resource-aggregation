@@ -16,7 +16,7 @@ Our regular calls are {insert times}. You can find the event in the global DRF c
 |    Name  | GH Handle |  Discord Handle |  LinkedIn  | 
 |    ---   |     ---   |      ---        |     ---    |
 | person 1 | @ awesome |     @ person    | @ linkedin |
-| person 2 | @ awesome |     @ person    | @ linkedin |
+| Rob Earlam | [@RobEarlam](https://github.com/robearlam) | @RobE | [Rob-Earlam](https://linkedin.com/in/rob-earlam/) |
 | person 3 | @ awesome |     @ person    | @ linkedin |
 
 
