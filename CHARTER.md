@@ -9,13 +9,13 @@ The primary objectives of the resource aggregation working group includes themes
 - Maintain an events/CFP directory to support the community’s participation in relevant industry events.
 - Develop resources to track product feedback from the community in a structured way.
 
-### a) Process for Aggregating Assets
+### 1.1 Process for Aggregating Assets
 
-### b) Library of Developer Personas
+### 1.2 Library of Developer Personas
 
-### c) DevRel Software and Tools
+### 1.3 DevRel Software and Tools
 
-### d) Events / CFP Directory
+### 1.4 Events / CFP Directory
 
 
 ## 2. Working Group Composition
@@ -25,27 +25,29 @@ The Working Group is composed of…
 The membership profile is…
 
 
-### a) Roles & Responsibilities 
+### 2.1 Roles & Responsibilities 
 
 
-### b) Community Feedback
+### 2.2 Community Feedback
 
 
 ## 3. Meetings
 
-### a) Cadence
+### 3.1 Cadence
 
-### b) Annual Activities 
+### 3.2 Annual Activities 
 
 Ex: budget/finance, meeting planning, elections, etc…
 
 
 ## 4. Working Group Resources
 
+...
 
 
 
----
+## 5. Governance
+
 All Working Groups within the DevRel Foundation must: 
 
 - Function with openness and transparency, meaning that participation is open to all, and minutes and other documents are available and easily accessible to everyone
