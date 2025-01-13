@@ -2,10 +2,21 @@
 
 ## 1. Working Group Definition
 
-Tl;Dr: The primary of objective of this working group is… including:
-Point A
-Point B
-Point C
+The primary objectives of the resource aggregation working group includes themes such as:
+- Aggregate and make accessible existing assets that support DevRel practitioners.
+- Create a library of developer personas to guide engagement strategies.
+- Curate a directory of DevRel-specific software and tools.
+- Maintain an events/CFP directory to support the community’s participation in relevant industry events.
+- Develop resources to track product feedback from the community in a structured way.
+
+### 1.1 Process for Aggregating Assets
+
+### 1.2 Library of Developer Personas
+
+### 1.3 DevRel Software and Tools
+
+### 1.4 Events / CFP Directory
+
 
 ## 2. Working Group Composition
 
@@ -13,22 +24,30 @@ The Working Group is composed of…
 
 The membership profile is…
 
-### Roles & Responsibilities 
+
+### 2.1 Roles & Responsibilities 
+
+
+### 2.2 Community Feedback
+
 
 ## 3. Meetings
 
-### Cadence
+### 3.1 Cadence
 
-### Critical Annual Activities 
+### 3.2 Annual Activities 
 
 Ex: budget/finance, meeting planning, elections, etc…
 
+
 ## 4. Working Group Resources
 
+...
 
 
 
----
+## 5. Governance
+
 All Working Groups within the DevRel Foundation must: 
 
 - Function with openness and transparency, meaning that participation is open to all, and minutes and other documents are available and easily accessible to everyone
