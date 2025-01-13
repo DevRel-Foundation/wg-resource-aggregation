@@ -15,9 +15,9 @@ Our regular calls are {insert times}. You can find the event in the global DRF c
 
 |    Name  | GH Handle |  Discord Handle |  LinkedIn  | 
 |    ---   |     ---   |      ---        |     ---    |
-| person 1 | @ awesome |     @ person    | @ linkedin |
 | Rob Earlam | [@RobEarlam](https://github.com/robearlam) | @RobE | [Rob-Earlam](https://linkedin.com/in/rob-earlam/) |
-| person 3 | @ awesome |     @ person    | @ linkedin |
+| Jayson DeLancey | [@j12y](https://github.com/j12y) |     @j12y    | [in/jaysondelancey](https://linkedin.com/in/jaysondelancey) |
+| Oleg Nenashev | [@oleg-nenashev](https://github.com/oleg-nenashev) |     @onenashev    | [onenashev](https://www.linkedin.com/in/onenashev/) |
 
 
 If you have any questions, please check the [DRF FAQ](https://github.com/DevRel-Foundation#faq) first. **If your question is not answered in the FAQ**:
