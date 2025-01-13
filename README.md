@@ -16,7 +16,7 @@ Our regular calls are {insert times}. You can find the event in the global DRF c
 |    Name  | GH Handle |  Discord Handle |  LinkedIn  | 
 |    ---   |     ---   |      ---        |     ---    |
 | Rob Earlam | [@RobEarlam](https://github.com/robearlam) | @RobE | [Rob-Earlam](https://linkedin.com/in/rob-earlam/) |
-| Jayson DeLancey | [@j12y](https://github.com/j12y) |     @j12y    | [in/jaysondelancey](https://linkedin.com/in/jaysondelancey) |
+| Jayson DeLancey | [@j12y](https://github.com/j12y) |     @j12y    | [jaysondelancey](https://linkedin.com/in/jaysondelancey) |
 | Oleg Nenashev | [@oleg-nenashev](https://github.com/oleg-nenashev) |     @onenashev    | [onenashev](https://www.linkedin.com/in/onenashev/) |
 
 
