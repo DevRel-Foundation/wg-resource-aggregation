@@ -22,7 +22,7 @@ The primary objectives of the resource aggregation working group includes themes
 
 This working group is composed of volunteers who have experience and interest in developer communities.
 
-Typical members include professionals who have roles such as: developer advocate, community manager, developer relations engineer, developer evangelist, developer marketing, product management, product marketing manager, etc. 
+Typical participants include professionals who have roles such as: developer advocate, community manager, developer relations engineer, developer evangelist, developer marketing, product management, product marketing manager, etc. 
 
 Organizations that have developer-facing tools can all benefit from a better understanding of the resources available to them. 
 
@@ -32,7 +32,7 @@ To empower participation, we've identified the responsibilities for various type
 
 #### Community at Large
 
-Membership of this working group is open to all in the community. Individual one-off contributions are welcome by anybody so long as it follows the submission guidelines.
+Participation in this working group is open to all in the community. Individual one-off contributions are welcome by anybody so long as it follows the submission guidelines.
 
 #### Participants
 
@@ -61,7 +61,7 @@ Project Management:
 
 ### 2.2 Community Feedback
 
-To ensure that community members are able to contribute feedback on how the working group itself functions and operates we've enabled [GitHub Discussions](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions). Specifically, the [Feedback](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions/categories/feedback) category is an area that managers will utilize to post surveys and polls that invite input.
+To ensure that community participants are able to contribute feedback on how the working group itself functions and operates we've enabled [GitHub Discussions](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions). Specifically, the [Feedback](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions/categories/feedback) category is an area that managers will utilize to post surveys and polls that invite input.
 
 ## 3. Meetings
 
