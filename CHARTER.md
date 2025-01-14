@@ -22,7 +22,7 @@ The primary objectives of the resource aggregation working group includes themes
 
 This working group is composed of volunteers who have experience and interest in developer communities.
 
-Typical members include professionals who have roles such as: developer advocate, developer relations engineer, developer evangelist, developer marketing, product management, product marketing manager, etc. 
+Typical members include professionals who have roles such as: developer advocate, community manager, developer relations engineer, developer evangelist, developer marketing, product management, product marketing manager, etc. 
 
 Organizations that have developer-facing tools can all benefit from a better understanding of the resources available to them. 
 
