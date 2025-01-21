@@ -20,12 +20,12 @@ The goal for the working group then is to build a persona library and supporting
 - identify key terminology for persona development and types of personas
 - define a schema that can be used for a variety of use cases
 - provide a versioning scheme to account for persona updates
-- manage the library for where personas are stored
+- manage the library for where personas are discoverable (storage, search, presentation)
 - evaluate criteria for accepting and rejecting contributions to the persona library
-- collect and share open data-driven segmentation data
-- create educational resources around creating and using personas
+- collect and share open data-driven segmentation data as it relates to personas
+- create educational resources around creating and using personas in developer relations practices
 
-Annually, the working group should survey and identify when and how the community is using the persona library successfully to fine-tune marketing materials, improve user experience, or better understand the buyer's journey. The survey results and insights can then be shared with the community.
+Annually, the working group should survey and identify when and how the community is using the persona library successfully to fine-tune marketing materials, improve user experience, or better understand the buyer's journey. The survey results and insights are to be shared with the community.
 
 ### 1.3 DevRel Software and Tools
 
