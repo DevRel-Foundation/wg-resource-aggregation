@@ -15,6 +15,17 @@ The primary objectives of the resource aggregation working group includes themes
 
 ### 1.3 DevRel Software and Tools
 
+Developer Relations professionals must use a diverse set of software and tools to accomplish the mission of the role. The value of having a directory of software and tools is to support the discoverability of resources that help solve day-to-day operational challenges. The problems which a tool may solve can be varied including customer relationship management, ticketing, content authoring, video editing, communication, software development, etc. 
+
+The goal for the working group then is to build a directory that can:
+
+- define organizing principles for what constitutes a tool (problem-oriented, categorical)
+- manage the directory for where tools are discoverable (storage, search, presentation)
+- provide a fair and balanced representation of resources that may include competing commercial products
+- system for dispute resolution where a community member and tool-owner may have diverging perspectives
+
+Annually, the working group should survey the community to identify changes in tooling used by professionals in their marketing, sales, product, and engineering tasks.
+
 ### 1.4 Events / CFP Directory
 
 
