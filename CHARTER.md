@@ -27,9 +27,20 @@ The membership profile is…
 
 ### 2.1 Roles & Responsibilities 
 
+### 2.2 Decision Making
 
-### 2.2 Community Feedback
+The working groups intends to make decisions by a consensus of all members and community contributors.
+Unless there is a sensitive matter (e.g. Personally-Identifyable Information, Security, Code of Conduct escalation), key discussions and decisions
+should happen asynchronously in public communication channels like community Slack, GitHub Issues, or pull requests to respective repositories.
 
+For substantial decisions, the consensus-based decisions are then ratified by the Working Group leads and communicated to the members via Discord and the mailing list. 
+Unless such a decision is contested within a week, it is considered accepted.
+Otherwise, the discussion continues and, if required, a voting takes place.
+
+### 2.3 Community Feedback
+
+Any community feedback is welcome!
+Please use the WG chats, GitHub issues and other respective resources.
 
 ## 3. Meetings
 
@@ -41,9 +52,6 @@ Ex: budget/finance, meeting planning, elections, etc…
 
 
 ## 4. Working Group Resources
-
-...
-
 
 
 ## 5. Governance
