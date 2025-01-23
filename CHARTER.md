@@ -27,21 +27,30 @@ The goal for the working group then is to build a persona library and supporting
 
 Annually, the working group should survey and identify when and how the community is using the persona library successfully to fine-tune marketing materials, improve user experience, or better understand the buyer's journey. The survey results and insights are to be shared with the community.
 
-### 1.3 DevRel Software and Tools
+### 1.3 Catalog of Software and Tools
 
-Developer Relations professionals must use a diverse set of software and tools to accomplish the mission of the role. The value of having a directory of software and tools is to support the discoverability of resources that help solve day-to-day operational challenges. The problems which a tool may solve can be varied including customer relationship management, ticketing, content authoring, video editing, communication, software development, etc. 
+Developer Relations professionals must use a diverse set of software and tools to accomplish the mission of the role. The value of having a catalog of software and tools is to support the discoverability of resources that help solve day-to-day operational challenges. The problems which a tool may solve can be varied including customer relationship management, ticketing, content authoring, video editing, communication, software development, etc. 
 
-The goal for the working group then is to build a directory that can:
+The goal for the working group then is to build a catalog that can:
 
 - define organizing principles for what constitutes a tool (problem-oriented, categorical)
-- manage the directory for where tools are discoverable (storage, search, presentation)
+- manage the catalog for where tools are discoverable (storage, search, presentation)
 - provide a fair and balanced representation of resources that may include competing commercial products
 - system for dispute resolution where a community member and tool-owner may have diverging perspectives
 
-Annually, the working group should survey the community to identify changes in tooling used by professionals in their marketing, sales, product, and engineering tasks.
+Annually, the working group should survey the community for feedback to identify changes in tooling used by professionals in their marketing, sales, product, and engineering tasks.
 
-### 1.4 Events / CFP Directory
+### 1.4 Directory of Events
 
+Community is an important part of many Developer Relations programs. Events allow a community to come together to exchange ideas, whether in-person or virtually. Some events may have a single topic while others may have a diverse set of tracks that cover a variety of subjects. Events may be run by a private commercial company, an individual hobbyist, or an event management company. As part of a go-to-market motion, Developer Relations professionals often seek out events that provide speaking calls for papers (CFP) or other sponsorship activities.
+
+- define a schema for events that define dimensions of interest to practitioners
+- manage the catalog for where events are discoverable (storage, search, presentation)
+- provide a recommended solution for the inter-exchange of event details with existing aggregators, listings, and calendars
+- evaluate criteria for accepting or rejecting contributions to the event catalog
+- provide educational resources and outreach to event hosts with an opportunity to ensure accuracy of event details
+
+Annually, the working group should survey the community for feedback on the accuracy and utility of the events catalog, dimensions being defined, and the value it provides for their marketing and community efforts.
 
 ## 2. Working Group Composition
 
