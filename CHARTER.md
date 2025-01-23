@@ -99,8 +99,12 @@ Ex: budget/finance, meeting planning, elections, etc…
 
 ## 4. Working Group Resources
 
-...
+### Project Control Center (PCC)
 
+The Linux Foundation provides access to [PCC](https://docs.linuxfoundation.org/lfx/project-control-center) which has a set of resources for project administrators that we will leverage for the working group. 
+
+- **Meeting Management Tool**: PCC allows scheduling and sharing calendars to host private and public meetings on Zoom. This supports a larger number of participants, longer meeting times, and recordings / transcripts.
+- **Mailing Lists**: PCC allows hosting distribution lists with Groups.io. This is how we distribute email to the working group mailing list.
 
 
 ## 5. Governance
