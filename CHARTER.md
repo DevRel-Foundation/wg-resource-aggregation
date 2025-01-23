@@ -67,15 +67,13 @@ Real-time communication will utilize the community calendar to announce events t
 - agenda is set by managers and shared a reasonable amount of time ahead of a call in Discord along with a call for topics from the community
 
 *Minutes*
-- the agenda and meeting minutes should be recorded in the GitHub repository by managers within a reasonable amount of time following the call
+- the agenda and meeting minutes should be recorded in the [wg-resource-aggregation discussions](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions/categories/working-group-calls) by managers within a reasonable amount of time following the call
 
-*Schedule*
-- typically will occur immediately following manager calls on the first Friday of each month
-- two separate sessions will repeat the same agenda, one for the AMER region and one for APAC/EMEA
-- see the community calendar for working group schedule for your local timezone
-
-You can find events from the Community Calendar here:
-https://lists.dev-rel.org/g/community/calendar
+*Schedule/Cadence*
+- once per month on THU at 9:00PM UTC
+- to be held mid-week so that it does not fall on APAC weekends with Friday schedule
+- once per quarter, assess from participants in community whether we need to have two separate sessions to accomodate different time zones
+- see the [community calendar](https://lists.dev-rel.org/g/community/calendar) and discord channel for schedule announcements
 
 
 ### 3.3 Annual Activities 
