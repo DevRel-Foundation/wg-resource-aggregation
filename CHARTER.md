@@ -83,16 +83,13 @@ https://lists.dev-rel.org/g/community/calendar
 To support the activities of the working group, there are activities that are coordinated throughout the year.
 
 *Q1*
-- charter review for community feedback and input on the working group itself, including amendments to the charter
+- charter review session for community feedback and input on the working group itself, including amendments to the charter
 
 *Q2* 
-- software tools community survey and report
 
 *Q3*
-- developer persona community survey and report
 
 *Q4*
-- events community survey and report
 
 
 ## 4. Working Group Resources
