@@ -1,4 +1,4 @@
-# Resource Aggregation Working Group Operating Document
+# DRAFT: Resource Aggregation Working Group Operating Document
 
 ## 1. Working Group Definition
 
@@ -119,3 +119,8 @@ More information: https://github.com/DevRel-Foundation/governance/pull/17/files#
 
 Compliance with Policies 
 This Charter is subject to the Series Agreement for the Project and the Operating Agreement of LF Projects. Contributors will comply with the policies of LF Projects as may be adopted and amended by LF Projects, including, without limitation the policies listed at https://lfprojects.org/policies/.  
+
+
+## 6. Revision History
+
+
