@@ -20,16 +20,48 @@ The primary objectives of the resource aggregation working group includes themes
 
 ## 2. Working Group Composition
 
-The Working Group is composed of…
+This working group is composed of volunteers who have experience and interest in developer communities.
 
-The membership profile is…
+Typical participants include professionals who have roles such as: developer advocate, community manager, developer relations engineer, developer evangelist, developer marketing, product management, product marketing manager, etc. 
 
+Organizations that have developer-facing tools can all benefit from a better understanding of the resources available to them. 
 
 ### 2.1 Roles & Responsibilities 
 
+To empower participation, we've identified the responsibilities for various types of roles.
+
+#### Community at Large
+
+Participation in this working group is open to all in the community. Individual one-off contributions are welcome by anybody so long as it follows the submission guidelines.
+
+#### Participants
+
+One does not need to be a full participant in order to contribute to the working group. Being identified as a full participant is however a recognition of consistent contributions including:
+
+- attending and engaging in working group community meetings
+- volunteering and taking an active role in accomplishing group tasks identified as issues in the repository or during a community meeting
+- submitting ideas and recommendations for inclusion in collected resources
+
+We value regular participation so want to recognize those who do.
+
+#### Managers 
+
+Managers are an integral part to the function of the working group and are recognized in order to drive action forward. They should do everything regular participants are expected to do and further:
+
+Communication:
+- set recurring meeting times and dates that allow for synchronous communication with participants that may be spread around the globe
+- set meeting agendas
+- take meeting notes in order to share outcomes and progress
+- ensure that participant questions are recognized and addressed across channels
+- communicate with the community at regular intervals through updates to github discussions, discord, and the mailing list
+
+Project Management:
+- manage tasks by creating [github issues](https://github.com/DevRel-Foundation/wg-resource-aggregation/issues) and traiging them for assignment
+- follow-up and facilitate the completion of tasks within a reasonable time frame in order to meet working group objectives
 
 ### 2.2 Community Feedback
 
+To ensure that community participants are able to contribute feedback on how the working group itself functions and operates we've enabled [GitHub Discussions](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions). Specifically, the [Feedback](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions/categories/feedback) category is an area that managers will utilize to post surveys and polls that invite input.
 
 ## 3. Meetings
 
