@@ -99,7 +99,7 @@ Ex: budget/finance, meeting planning, elections, etc…
 
 ## 4. Working Group Resources
 
-### Project Control Center (PCC)
+### 4.1 Project Control Center (PCC)
 
 The Linux Foundation provides access to [PCC](https://docs.linuxfoundation.org/lfx/project-control-center) which has a set of resources for project administrators that we will leverage for the working group. 
 
