@@ -81,7 +81,7 @@ Communication:
 - communicate with the community at regular intervals through updates to github discussions, discord, and the mailing list
 
 Project Management:
-- manage tasks by creating [github issues](https://github.com/DevRel-Foundation/wg-resource-aggregation/issues) and traiging them for assignment
+- manage tasks by creating [github issues](https://github.com/DevRel-Foundation/wg-resource-aggregation/issues) and triaging them for assignment
 - follow-up and facilitate the completion of tasks within a reasonable time frame in order to meet working group objectives
 
 ### 2.2 Community Feedback
