@@ -13,6 +13,20 @@ The primary objectives of the resource aggregation working group includes themes
 
 ### 1.2 Library of Developer Personas
 
+A persona represents the type of user that may or may not engage with a product or service. The value of a persona comes from using it to align a business around expectations for current and potential buyers or customers.
+
+The goal for the working group then is to build a persona library and supporting materials to:
+
+- identify key terminology for persona development and types of personas
+- define a schema that can be used for a variety of use cases
+- provide a versioning scheme to account for persona updates
+- manage the library for where personas are discoverable (storage, search, presentation)
+- evaluate criteria for accepting and rejecting contributions to the persona library
+- collect and share open data-driven segmentation data as it relates to personas
+- create educational resources around creating and using personas in developer relations practices
+
+Annually, the working group should survey and identify when and how the community is using the persona library successfully to fine-tune marketing materials, improve user experience, or better understand the buyer's journey. The survey results and insights are to be shared with the community.
+
 ### 1.3 DevRel Software and Tools
 
 ### 1.4 Events / CFP Directory
