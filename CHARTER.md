@@ -88,13 +88,63 @@ Project Management:
 
 To ensure that community participants are able to contribute feedback on how the working group itself functions and operates we've enabled [GitHub Discussions](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions). Specifically, the [Feedback](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions/categories/feedback) category is an area that managers will utilize to post surveys and polls that invite input.
 
-## 3. Meetings
+## 3. Communication
 
-### 3.1 Cadence
+### 3.1 Channels
 
-### 3.2 Annual Activities 
+Asynchronous public communication is preferred for working group activities. This section attempts to identify the communication channels along with recommendations for how and when we'll use them.
 
-Ex: budget/finance, meeting planning, elections, etc…
+*Mailing List*
+- monthly newsletter summarizing working group activities
+- meeting/presentation announcements
+- used by managers for any working group announcements
+- low volume
+
+*GitHub*
+- **GitHub Discussions** used for working group feedback, suggestions, and polls
+- **GitHub Issues** used to track working group tasks
+- **GitHub Projects** used to track multiple tasks into an outcome-driven kanban aligned with working group strategic goals
+- **GitHub Pull Requests** provide opportunity for feedback from participants on any working group operating document changes
+
+*Discord*
+- use the #resource-aggregation channel for working group specific chat
+- agenda and summary of any working group calls
+- higher frequency of updates to call attention to activity from other channels
+- real-time project coordination (please keep major items on GitHub discussions)
+- misc discussions
+
+*Zoom*
+- see the next section for more about working group calls
+
+### 3.2 Working Group Calls
+
+Real-time communication will utilize the community calendar to announce events to be held using Zoom for teleconferencing.
+
+*Agenda*
+- agenda is set by managers and shared a reasonable amount of time ahead of a call in Discord along with a call for topics from the community
+
+*Minutes*
+- the agenda and meeting minutes should be recorded in the [wg-resource-aggregation discussions](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions/categories/working-group-calls) by managers within a reasonable amount of time following the call
+
+*Schedule/Cadence*
+- once per month on THU at 9:00PM UTC
+- to be held mid-week so that it does not fall on APAC weekends with Friday schedule
+- once per quarter, assess from participants in community whether we need to have two separate sessions to accomodate different time zones
+- see the [community calendar](https://lists.dev-rel.org/g/community/calendar) and discord channel for schedule announcements
+
+
+### 3.3 Annual Activities 
+
+To support the activities of the working group, there are activities that are coordinated throughout the year.
+
+*Q1*
+- charter review session for community feedback and input on the working group itself, including amendments to the charter
+
+*Q2* 
+
+*Q3*
+
+*Q4*
 
 
 ## 4. Working Group Resources
