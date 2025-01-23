@@ -39,6 +39,7 @@ Asynchronous public communication is preferred for working group activities. Thi
 
 *Mailing List*
 - monthly newsletter summarizing working group activities
+- meeting/presentation announcements
 - used by managers for any working group announcements
 - low volume
 
@@ -52,6 +53,8 @@ Asynchronous public communication is preferred for working group activities. Thi
 - use the #resource-aggregation channel for working group specific chat
 - agenda and summary of any working group calls
 - higher frequency of updates to call attention to activity from other channels
+- real-time project coordination (please keep major items on GitHub discussions)
+- misc discussions
 
 *Zoom*
 - see the next section for more about working group calls
