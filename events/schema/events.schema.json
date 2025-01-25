@@ -1,0 +1,41 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://github.com/DevRel-Foundation/wg-resource-aggregation/blob/main/events/schema/events.schema.json",
+    "title": "Event",
+    "description": "Developer Relations Foundation event description.",
+    "type": "object",
+    "properties": {
+        "url": {
+            "description": "The canonical URL to learn more about the event.",
+            "type": "string"
+        },
+        "name": {
+            "description": "The name used to identify the event.",
+            "type": "string"
+        },
+        "aliases": {
+            "description": "Additional names that may be used to identify this event.",
+            "type": "array",
+            "items": {
+                "type": "string"
+            },
+            "uniqueItems": true
+        },
+        "schema": {
+            "description": "Details about the schema the document follows.",
+            "type": "object",
+            "properties": {
+                "url": {
+                    "description": "The location of the schema.",
+                    "type": "string"
+                },
+                "version": {
+                    "description": "The version of the schema.",
+                    "type": "string"
+                }
+            }
+        }
+    },
+    "required": ["url", "name"],
+    "additionalProperties": false
+}
