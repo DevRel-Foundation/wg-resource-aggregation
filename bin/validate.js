@@ -1,4 +1,4 @@
-// node validate.js --schema ../events/schema/events.schema.json --data ../events/data/fossdem.org.json
+// node validate.js --schema ../events/events.schema.json --data ../events/data/fossdem.org.json
 
 const fs = require('fs');
 const args = require('yargs')
