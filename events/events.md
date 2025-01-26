@@ -6,7 +6,7 @@ An objective of the working group is to aggregate these types of community event
 
 ## Use Cases
 
-The aim for this events directory is to service the broader needs of developer advocates, developer marketing, community managers, product managers, and more. Events may also include professional development opportunities.
+The aim for this events directory is to service the broader needs of developer advocates, developer marketing, community managers, event managers, product managers, and more. Events may also include professional development opportunities.
 
 ### Events by Location
 
@@ -106,9 +106,15 @@ A community-driven platform listing developer/tech conferences and Calls for Pap
 
 ## https://www.eventbrite.com/
 Bringing the world together through live experiences.
+- acquired lanyard.com
 
 ## https://www.meetup.com/
 Meetup creates possibilities to find and build local communities.
+
+## https://www.devresources.info/conferences
+A curated list of the developer conferences for 2025 and beyond.
+
+
 
 
 
