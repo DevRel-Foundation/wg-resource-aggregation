@@ -18,7 +18,7 @@ The geographic region is a common and important dimension for events.
 
 The topics and technology themes of an event:
 - the programming language such as Python, Ruby, JavaScript, etc.
-- the technical methodology such as DevOps, Data Science, UX, etc.
+- the technical methodology such as DevOps, Data Science, UX, AI, etc.
 - the platform such as Android, iOS, etc.
 - the technology or software vendor 
 
@@ -79,10 +79,15 @@ WikiCFP is a semantic wiki for Calls For Papers in science and technology fields
 
 Only considers CFPs.
 
-## https://callingallpapers.com/
-List of currently open Calls for Papers (CFP). To retrieve the list we crawl these sites on a daily basis to find new CfPs: joind.in, confs.tech, papercall.io, Sessionize.
+## https://www.eventbrite.com/
+Bringing the world together through live experiences.
+- acquired lanyard.com
 
-Only considers CFPs.
+## https://www.meetup.com/
+Meetup creates possibilities to find and build local communities.
+
+## https://sessionize.com/
+The smart way to do Call for Papers, Schedule and Speaker Management.
 
 ## https://joind.in/
 Joind.in brings attendee feedback to speakers at events, quickly and transparently. Getting feedback lets speakers improve, attendees be heard, and organisers find out what really works (and doesn't!) at their events.
@@ -90,8 +95,10 @@ Joind.in brings attendee feedback to speakers at events, quickly and transparent
 ## https://www.papercall.io/
 PaperCall enables event organizers to easily manage their call for papers and talk submissions.
 
-## https://sessionize.com/
-The smart way to do Call for Papers, Schedule and Speaker Management.
+## https://callingallpapers.com/
+List of currently open Calls for Papers (CFP). To retrieve the list we crawl these sites on a daily basis to find new CfPs: joind.in, confs.tech, papercall.io, Sessionize.
+
+Only considers CFPs.
 
 ## https://www.cfpland.com/
 CFP Land exists to help speakers find the best opportunities.
@@ -104,17 +111,11 @@ CFPs to browse or directly in your inbox.
 A community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view.
 - https://github.com/scraly/developers-conferences-agenda
 
-## https://www.eventbrite.com/
-Bringing the world together through live experiences.
-- acquired lanyard.com
-
-## https://www.meetup.com/
-Meetup creates possibilities to find and build local communities.
-
 ## https://www.devresources.info/conferences
 A curated list of the developer conferences for 2025 and beyond.
 
-
+## https://www.bizzabo.com/blog/technology-events
+This carefully curated conference directory features more than 100 tech conferences happening worldwide in 2025, with a focus on North America.
 
 
 
