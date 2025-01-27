@@ -38,7 +38,7 @@ The membership profile is…
 Asynchronous public communication is preferred for working group activities. This section attempts to identify the communication channels along with recommendations for how and when we'll use them.
 
 *Mailing List*
-- monthly newsletter summarizing working group activities
+- regular newsletter summarizing working group activities as required to report progress
 - meeting/presentation announcements
 - used by managers for any working group announcements
 - low volume
