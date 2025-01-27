@@ -44,7 +44,7 @@ Asynchronous public communication is preferred for working group activities. Thi
 - low volume
 
 *GitHub*
-- **GitHub Discussions** used for working group feedback, suggestions, and polls
+- **GitHub Discussions** used for working group feedback, suggestions, meeting agendas / minutes, and polls
 - **GitHub Issues** used to track working group tasks
 - **GitHub Projects** used to track multiple tasks into an outcome-driven kanban aligned with working group strategic goals
 - **GitHub Pull Requests** provide opportunity for feedback from participants on any working group operating document changes
@@ -61,20 +61,23 @@ Asynchronous public communication is preferred for working group activities. Thi
 
 ### 3.2 Working Group Calls
 
-Real-time communication will utilize the community calendar to announce events to be held using Zoom for teleconferencing.
+Real-time communication will utilize the working group calendar to list events to be held using Zoom for teleconferencing.
 
 *Agenda*
-- agenda is set by managers and shared a reasonable amount of time ahead of a call in Discord along with a call for topics from the community
+- agenda is set by managers with a call for topics a reasonable amount of time ahead of a call
+- the agenda is published publicly to the [working-group-calls](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions/categories/working-group-calls) section of discussions
 
 *Minutes*
-- the agenda and meeting minutes should be recorded in the [wg-resource-aggregation discussions](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions/categories/working-group-calls) by managers within a reasonable amount of time following the call
+- the meeting minutes and attendees should be recorded in the [wg-resource-aggregation discussions](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions/categories/working-group-calls) by managers within a reasonable amount of time following the call
 
 *Schedule/Cadence*
-- once per month on THU at 9:00PM UTC
+- once per month on WED or THU at 9:00PM UTC
 - to be held mid-week so that it does not fall on APAC weekends with Friday schedule
 - once per quarter, assess from participants in community whether we need to have two separate sessions to accomodate different time zones
-- see the [community calendar](https://lists.dev-rel.org/g/community/calendar) and discord channel for schedule announcements
+- announced via the [working group calendar](https://lists.dev-rel.org/g/wg-resource-aggregation/calendar), mailing list and discord channel
 
+The procedure for hosting working group calls is described here:
+https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions/37
 
 ### 3.3 Annual Activities 
 
