@@ -34,6 +34,8 @@ The persona or profiles of attendees may influence participation:
 - their job titles
 - their company or organization
 - size of the event
+- good for students
+- valuable for job seekers
 
 ### Open-ended Opportunities
 

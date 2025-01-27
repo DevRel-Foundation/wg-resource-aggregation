@@ -3,6 +3,7 @@
     "$id": "https://github.com/DevRel-Foundation/wg-resource-aggregation/blob/main/events/schema/events.schema.json",
     "title": "Event",
     "description": "Developer Relations Foundation event description.",
+    "version": "1.0",
     "type": "object",
     "properties": {
         "url": {
