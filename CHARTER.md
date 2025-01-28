@@ -1,5 +1,9 @@
 # DRAFT: Resource Aggregation Working Group Operating Document
 
+> **NOTE:** We are working on it (c)
+> Any contributons are welcome, just submit a pull request.
+> For feedback, please use [GitHub Discussions](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions) or [GitHub Issues](https://github.com/DevRel-Foundation/wg-resource-aggregation/issues)
+
 ## 1. Working Group Definition
 
 The primary objectives of the resource aggregation working group includes themes such as:
