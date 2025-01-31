@@ -5,13 +5,16 @@
     "aliases": ["Free and Open Source Developers European Meeting"],
     "topics": ["open source", "android", "apis", "ada", "cloud native", "containers", "analytics", "embedded", "java", "geospatial", "golang", "security", "javascript", "web", "mysql", "postgresql", "python", "quantum", "real-time communications", "robotics", "rust", "swift", "ios", "cicd", "docs", "WebAssembly"],
     "social": {
+        "discord": "",
         "facebook": "https://facebook.com/fosdem",
         "instagram": "https://www.instagram.com/fosdem/",
         "linkedin": "",
         "bluesky": "",
         "mastodon": "https://fosstodon.org/@fosdem",
+        "slack": "",
         "x": "https://x.com/fosdem"
     },
+    "frequency": "annual",
     "series": [
         {
             "start": "2025-02-01",
@@ -40,7 +43,7 @@
             "deadline": ""
         },
         "tracks": 2,
-        "range": {"min": 1, "max": 100}
+        "range": {"min": 1054, "max": 1054}
     },
     "attendees": {
         "range": {"min": 4000, "max": 8000},

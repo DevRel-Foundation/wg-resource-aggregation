@@ -4,6 +4,10 @@ Community is an important part of many Developer Relations programs. Events allo
 
 An objective of the working group is to aggregate these types of community events. Existing solutions are available but there is a gap between what they provide and the needs of the broader Developer Relations community. 
 
+- [design.md](./design.md): discusses design influences for the data model and reference implementations
+- [how-to.md](./how-to.md): provides examples for how to accomplish tasks with the event directory data
+
+
 ## Use Cases
 
 The aim for this events directory is to service the broader needs of developer advocates, developer marketing, community managers, event managers, product managers, and more. Events may also include professional development opportunities.
@@ -118,7 +122,4 @@ A curated list of the developer conferences for 2025 and beyond.
 
 ## https://www.bizzabo.com/blog/technology-events
 This carefully curated conference directory features more than 100 tech conferences happening worldwide in 2025, with a focus on North America.
-
-
-
 
