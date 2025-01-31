@@ -1,0 +1,65 @@
+{
+    "url": "https://fosdem.org",
+    "name": "FOSDEM",
+    "description": "FOSDEM is a free event for software developers to meet, share ideas and collaborate. Every year, thousands of developers of free and open source software from all over the world gather at the event in Brussels. You don't need to register. Just turn up and join in!",
+    "aliases": ["Free and Open Source Developers European Meeting"],
+    "topics": ["open source", "android", "apis", "ada", "cloud native", "containers", "analytics", "embedded", "java", "geospatial", "golang", "security", "javascript", "web", "mysql", "postgresql", "python", "quantum", "real-time communications", "robotics", "rust", "swift", "ios", "cicd", "docs", "WebAssembly"],
+    "social": {
+        "facebook": "https://facebook.com/fosdem",
+        "instagram": "https://www.instagram.com/fosdem/",
+        "linkedin": "",
+        "bluesky": "",
+        "mastodon": "https://fosstodon.org/@fosdem",
+        "x": "https://x.com/fosdem"
+    },
+    "series": [
+        {
+            "start": "2025-02-01",
+            "end": "2025-02-02",
+            "type": "in-person",
+            "city": "Brussels",
+            "state": "",
+            "country": "Belgium",
+            "venue": {
+                "name": "ULB Solbosch Campus",
+                "address": "Av. F. D. Roosevelt 50\n1050 Bruxelles"
+            }
+        }
+    ],
+    "engagement": [
+        "talks",
+        "keynotes",
+        "lightning talks",
+        "booths",
+        "birds of a feather",
+        "meeting rooms"
+    ],
+    "speakers": {
+        "cfp": {
+            "url": "",
+            "deadline": ""
+        },
+        "tracks": 2,
+        "range": {"min": 1, "max": 100}
+    },
+    "attendees": {
+        "range": {"min": 4000, "max": 8000},
+        "code-of-conduct": "https://fosdem.org/2025/practical/conduct/",
+        "accessibility": {
+            "closed-captions": false,
+            "sign-language": false
+        },
+        "personas": []
+    },
+    "organizer": {
+        "org": "FOSEM VZW",
+        "type": "non-profit",
+        "email": "info@fosdem.org",
+        "phone": "+32 2 788 74 74",
+        "sponsorship": {
+            "contact": "sponsors@fosdem.org",
+            "range": {"min": 1, "max": 100},
+            "minimum": 0
+        }
+    }
+}

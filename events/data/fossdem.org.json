@@ -1,8 +1,0 @@
-{
-    "url": "https://fosdem.org",
-    "name": "FOSSDEM",
-    "aliases": ["Free and Open Source Software Developers European Meeting"],
-    "schema": {
-        "url": "https://github.com/DevRel-Foundation/wg-resource-aggregation/blob/main/events/schema/event"
-    }
-}
