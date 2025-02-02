@@ -38,7 +38,7 @@ Any member of the community should be able to submit a resource for inclusion so
 Criteria for contribution:
 - anybody may submit a contribution to collections
 - tracking of contributions gives appropriate attribution
-- contributors agree to release of any licensing terms for origin of data
+- participants may be required to agree to a contributor license agreement affirming they have content rights or are the origin source of any contributions made
 
 The working group is responsible for insuring a framework for contribution is in place.
 
@@ -161,6 +161,13 @@ The Linux Foundation provides access to [PCC](https://docs.linuxfoundation.org/l
 - **Meeting Management Tool**: PCC allows scheduling and sharing calendars to host private and public meetings on Zoom. This supports a larger number of participants, longer meeting times, and recordings / transcripts.
 - **Mailing Lists**: PCC allows hosting distribution lists with Groups.io. This is how we distribute email to the working group mailing list.
 
+### 4.2 GitHub Repositories
+
+The DevRel Foundation provides support through administration of GitHub repositories with features like GitHub Actions that enable the review, processing and aggregation of resources. These will be maintained independent of one another and the repository for the working group itself.
+
+* https://github.com/DevRel-Foundation/events-directory
+* https://github.com/DevRel-Foundation/persona-library
+* https://github.com/DevRel-Foundation/tools-catalog
 
 ## 5. Governance
 
