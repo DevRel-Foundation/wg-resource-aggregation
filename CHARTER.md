@@ -15,6 +15,61 @@ The primary objectives of the resource aggregation working group includes themes
 
 ### 1.1 Process for Aggregating Assets
 
+This section describes the general approach for collecting assets for inclusion. We've identified types of resources that are described in more detail in later sections.
+
+#### 1.1.1 Terminology
+
+* **Resource**: an individual record that refers to a resource; assets are synonymous for resources
+* **Collection**: the set of assets that fall within a particular category; library, directory, and catalog are synonyms for a collection
+* **Aggregation**: the process of acquiring and storing assets into collections
+* **Contributor**: anybody from the community at large who provided an asset
+
+#### 1.1.2 Resource Collections
+
+A resource collection is the set of all assets that fall within a discrete category.
+
+Criteria for where resources are shared:
+- open access to the data
+- version control to account for change
+- scalable to accomodate a large number of assets
+
+The working group will make a recommendation for where to store resources.
+
+#### 1.1.3 Contribution
+
+Any member of the community should be able to submit a resource for inclusion so long as it adheres to the criteria for inclusion.
+
+Criteria for contribution:
+- anybody may submit a contribution to collections
+- tracking of contributions gives appropriate attribution
+- participants may be required to agree to a contributor license agreement affirming they have content rights or are the origin source of any contributions made
+
+The working group is responsible for insuring a framework for contribution is in place.
+
+#### 1.1.4 Review
+
+The value to the community is the ability to use a collection to meet their unique use cases. This value can be compromised if data quality is poor from sparse details or an excessive amount of records that do not support one of the intended goals.
+
+To execute a review:
+- review should occur within a reasonable amount of time
+- adherence to standards for data quality can be clearly judged
+- public access allows for community review and correction
+- protection is in place to promote fairness so that contribution is not made to spam the collections for individual gain
+- in cases of dispute, the owner of the resource is given priority
+- periodically an assessment should be made to ensure the review criteria best serves the devrel commmunity
+
+The working group will define criteria and a recommendation for how the review process works.
+
+#### 1.1.5 Distribution
+
+Any aggregated resources should be made available for use in any way the community sees fit. 
+
+To enable distribution:
+- origin asset data can be indexed in secondary storage locations
+- origin asset data can be transformed and extended
+
+The working group will assist in providing reference implementations for accessing, indexing, and presenting resources. It is outside the scope of the working group to take on responsibility for providing an end-user experience.
+
 ### 1.2 Library of Developer Personas
 
 A persona represents the type of user that may or may not engage with a product or service. The value of a persona comes from using it to align a business around expectations for current and potential buyers or customers.
@@ -172,6 +227,13 @@ The Linux Foundation provides access to [PCC](https://docs.linuxfoundation.org/l
 - **Meeting Management Tool**: PCC allows scheduling and sharing calendars to host private and public meetings on Zoom. This supports a larger number of participants, longer meeting times, and recordings / transcripts.
 - **Mailing Lists**: PCC allows hosting distribution lists with Groups.io. This is how we distribute email to the working group mailing list.
 
+### 4.2 GitHub Repositories
+
+The DevRel Foundation provides support through administration of GitHub repositories with features like GitHub Actions that enable the review, processing and aggregation of resources. These will be maintained independent of one another and the repository for the working group itself.
+
+* https://github.com/DevRel-Foundation/events-directory
+* https://github.com/DevRel-Foundation/persona-library
+* https://github.com/DevRel-Foundation/tools-catalog
 
 ## 5. Governance
 
