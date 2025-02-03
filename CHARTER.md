@@ -1,8 +1,4 @@
-# DRAFT: Resource Aggregation Working Group Operating Document
-
-> **NOTE:** We are working on it (c)
-> Any contributons are welcome, just submit a pull request.
-> For feedback, please use [GitHub Discussions](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions) or [GitHub Issues](https://github.com/DevRel-Foundation/wg-resource-aggregation/issues)
+# Resource Aggregation Working Group Operating Document
 
 ## 1. Working Group Definition
 
@@ -249,5 +245,8 @@ This Charter is subject to the Series Agreement for the Project and the Operatin
 
 
 ## 6. Revision History
+
+The charter as described here has been reviewed and approved by the working group managers and foundation steering committee. (_Feb 2025_)
+
 
 
