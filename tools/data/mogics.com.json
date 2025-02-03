@@ -1,0 +1,8 @@
+{
+    "url": "https://mogics.com/super-bagel",
+    "name": "MOGICS Super Bagel",
+    "description": "Travel power adapter for US, EU, UK, AU",
+    "labels": ["power adapter"],
+    "task": ["how-to work while on the go"],
+    "personas": ["business traveller"]
+}
