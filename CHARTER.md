@@ -123,11 +123,11 @@ Organizations that have developer-facing tools can all benefit from a better und
 
 To empower participation, we've identified the responsibilities for various types of roles.
 
-#### Community at Large
+#### 2.1.1 Community at Large
 
 Participation in this working group is open to all in the community. Individual one-off contributions are welcome by anybody so long as it follows the submission guidelines.
 
-#### Participants
+#### 2.1.2 Participants
 
 One does not need to be a full participant in order to contribute to the working group. Being identified as a full participant is however a recognition of consistent contributions including:
 
@@ -137,7 +137,7 @@ One does not need to be a full participant in order to contribute to the working
 
 We value regular participation so want to recognize those who do.
 
-#### Managers 
+#### 2.1.3 Managers 
 
 Managers are an integral part to the function of the working group and are recognized in order to drive action forward. They should do everything regular participants are expected to do and further:
 
@@ -208,14 +208,14 @@ https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions/37
 
 To support the activities of the working group, there are activities that are coordinated throughout the year.
 
-*Q1*
+#### 3.3.1 *Q1*
 - charter review session for community feedback and input on the working group itself, including amendments to the charter
 
-*Q2* 
+#### 3.3.2 *Q2* 
 
-*Q3*
+#### 3.3.3 *Q3*
 
-*Q4*
+#### 3.3.4 *Q4*
 
 
 ## 4. Working Group Resources
