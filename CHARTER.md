@@ -40,7 +40,7 @@ Criteria for contribution:
 - tracking of contributions gives appropriate attribution
 - participants may be required to agree to a contributor license agreement affirming they have content rights or are the origin source of any contributions made
 
-The working group is responsible for insuring a framework for contribution is in place.
+The working group is responsible for ensuring a framework for contribution is in place.
 
 #### 1.1.4 Review
 
@@ -135,18 +135,20 @@ We value regular participation so want to recognize those who do.
 
 #### 2.1.3 Managers 
 
-Managers are an integral part to the function of the working group and are recognized in order to drive action forward. They should do everything regular participants are expected to do and further:
+Managers are an integral part to the function of the working group and are recognized in order to drive action forward. They should do everything regular participants are expected to do.
 
-Communication:
+_Communication_
 - set recurring meeting times and dates that allow for synchronous communication with participants that may be spread around the globe
 - set meeting agendas
 - take meeting notes in order to share outcomes and progress
 - ensure that participant questions are recognized and addressed across channels
 - communicate with the community at regular intervals through updates to github discussions, discord, and the mailing list
 
-Project Management:
+_Project Management_
 - manage tasks by creating [github issues](https://github.com/DevRel-Foundation/wg-resource-aggregation/issues) and triaging them for assignment
 - follow-up and facilitate the completion of tasks within a reasonable time frame in order to meet working group objectives
+- interlock with other working groups to promote usage and contribution of resource collections
+
 
 ### 2.2 Community Feedback
 
