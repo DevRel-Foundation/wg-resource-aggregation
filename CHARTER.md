@@ -1,8 +1,4 @@
-# DRAFT: Resource Aggregation Working Group Operating Document
-
-> **NOTE:** We are working on it (c)
-> Any contributons are welcome, just submit a pull request.
-> For feedback, please use [GitHub Discussions](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions) or [GitHub Issues](https://github.com/DevRel-Foundation/wg-resource-aggregation/issues)
+# Resource Aggregation Working Group Operating Document
 
 ## 1. Working Group Definition
 
@@ -44,7 +40,7 @@ Criteria for contribution:
 - tracking of contributions gives appropriate attribution
 - participants may be required to agree to a contributor license agreement affirming they have content rights or are the origin source of any contributions made
 
-The working group is responsible for insuring a framework for contribution is in place.
+The working group is responsible for ensuring a framework for contribution is in place.
 
 #### 1.1.4 Review
 
@@ -123,11 +119,11 @@ Organizations that have developer-facing tools can all benefit from a better und
 
 To empower participation, we've identified the responsibilities for various types of roles.
 
-#### Community at Large
+#### 2.1.1 Community at Large
 
 Participation in this working group is open to all in the community. Individual one-off contributions are welcome by anybody so long as it follows the submission guidelines.
 
-#### Participants
+#### 2.1.2 Participants
 
 One does not need to be a full participant in order to contribute to the working group. Being identified as a full participant is however a recognition of consistent contributions including:
 
@@ -137,20 +133,22 @@ One does not need to be a full participant in order to contribute to the working
 
 We value regular participation so want to recognize those who do.
 
-#### Managers 
+#### 2.1.3 Managers 
 
-Managers are an integral part to the function of the working group and are recognized in order to drive action forward. They should do everything regular participants are expected to do and further:
+Managers are an integral part to the function of the working group and are recognized in order to drive action forward. They should do everything regular participants are expected to do.
 
-Communication:
+_Communication_
 - set recurring meeting times and dates that allow for synchronous communication with participants that may be spread around the globe
 - set meeting agendas
 - take meeting notes in order to share outcomes and progress
 - ensure that participant questions are recognized and addressed across channels
 - communicate with the community at regular intervals through updates to github discussions, discord, and the mailing list
 
-Project Management:
+_Project Management_
 - manage tasks by creating [github issues](https://github.com/DevRel-Foundation/wg-resource-aggregation/issues) and triaging them for assignment
 - follow-up and facilitate the completion of tasks within a reasonable time frame in order to meet working group objectives
+- interlock with other working groups to promote usage and contribution of resource collections
+
 
 ### 2.2 Community Feedback
 
@@ -208,14 +206,14 @@ https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions/37
 
 To support the activities of the working group, there are activities that are coordinated throughout the year.
 
-*Q1*
+#### 3.3.1 *Q1*
 - charter review session for community feedback and input on the working group itself, including amendments to the charter
 
-*Q2* 
+#### 3.3.2 *Q2* 
 
-*Q3*
+#### 3.3.3 *Q3*
 
-*Q4*
+#### 3.3.4 *Q4*
 
 
 ## 4. Working Group Resources
@@ -240,19 +238,17 @@ The DevRel Foundation provides support through administration of GitHub reposito
 All Working Groups within the DevRel Foundation must: 
 
 - Function with openness and transparency, meaning that participation is open to all, and minutes and other documents are available and easily accessible to everyone
-- Adhere to the DevRel Foundation’s Code of Conduct (link)
-- Follows Linux Foundation's [Antitrust Policy] (https://www.linuxfoundation.org/legal/antitrust-policy)
-- Follow Chatham House Rule  https://www.chathamhouse.org/about-us/chatham-house-rule 
-- and as otherwise set up in the Developer Relations Foundation Charter
-(which is as follows: 
+- Adhere to the DevRel Foundation’s [Code of Conduct](./CODE_OF_CONDUCT.md)
+- Follows Linux Foundation's [Antitrust Policy](https://www.linuxfoundation.org/legal/antitrust-policy)
+- Follow [Chatham House Rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
+- and as otherwise set up in the [Developer Relations Foundation Charter](https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter_v1.0.adoc)
 
-More information: https://github.com/DevRel-Foundation/governance/pull/17/files#diff-a5e748f515fc060f9baf9feb8e2871c97cd5657858b78f583c6c025c7e49f176 
-
-
-Compliance with Policies 
 This Charter is subject to the Series Agreement for the Project and the Operating Agreement of LF Projects. Contributors will comply with the policies of LF Projects as may be adopted and amended by LF Projects, including, without limitation the policies listed at https://lfprojects.org/policies/.  
 
 
 ## 6. Revision History
+
+The charter as described here has been reviewed and approved by the working group managers and foundation steering committee. (_Feb 2025_)
+
 
 
