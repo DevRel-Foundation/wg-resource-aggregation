@@ -1,10 +1,17 @@
 # Resources and Asset Aggregation Working Group
 Under the Developer Relations Foundation (DRF), the Resources and Asset Aggregation working group uses this repository for our work.
 
-- Our mission is to aggregate resources for a wide variety of use cases to support the Developer Relations professional community. This takes the form of a Persona Library, Tools Catalog, and Event Directory. Learn more about our mission from our [charter](./CHARTER.md).
-- Our progress on our strategic [goals](./GOALS.md) for the year can be followed through [projects](https://github.com/DevRel-Foundation/wg-resource-aggregation/projects?query=is%3Aopen).
-- We welcome contributions and questions via [Discussions](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions) or [Issues](https://github.com/DevRel-Foundation/wg-resource-aggregation/issues) within this repository.
+- Our mission is to aggregate resources for a wide variety of use cases to support the Developer Relations professional community. This takes the form of a [Persona Library](https://github.com/DevRel-Foundation/persona-library), [Tools Catalog](https://github.com/DevRel-Foundation/tools-catalog), and [Events Directory](https://github.com/DevRel-Foundation/events-directory). Learn more about our mission from our [charter](./CHARTER.md).
+- Our progress on our strategic [goals](./GOALS.md) for the year can be followed through GitHub [Projects](https://github.com/DevRel-Foundation/wg-resource-aggregation/projects?query=is%3Aopen).
+- We welcome contributions and questions via GitHub [Discussions](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions) or [Issues](https://github.com/DevRel-Foundation/wg-resource-aggregation/issues) within this repository.
 - Our mailing list to subscribe for announcements is here: https://lists.dev-rel.org/g/wg-resource-aggregation
+
+## Working Group Initiatives
+
+The outputs of this working group can be found in these repositories:
+- [Persona Library](https://github.com/DevRel-Foundation/persona-library)
+- [Tools Catalog](https://github.com/DevRel-Foundation/tools-catalog)
+- [Events Directory](https://github.com/DevRel-Foundation/events-directory)
 
 ## Working Group Meetings
 
