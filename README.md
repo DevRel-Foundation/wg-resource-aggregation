@@ -43,8 +43,10 @@ Leadership for the working group is shared among the following managers.
 
 All material contributed to the DRF Resources and Asset Aggregation Work Group is under [CC-BY-4.0 Licensing](https://creativecommons.org/licenses/by/4.0/deed.en).
 
+See the [License and Intellectual Property](https://github.com/DevRel-Foundation/.github/blob/main/profile/README.md#license-and-intellectual-property) statement for instructions on how to reuse and adapt content from this repository, discussions, and issues with proper attribution to the Developer Relations Foundation.
+
 # About the Developer Relations Foundation
 
-To learn more about the Developer Relations Foundation, visit the [FAQ](https://github.com/DevRel-Foundation#faq) for some general information.
+To learn more about the Developer Relations Foundation, visit the [FAQ](https://github.com/DevRel-Foundation#faq) for general information.
 
 If you still have additional questions, reach out to steering-committee (at) dev-rel.org
