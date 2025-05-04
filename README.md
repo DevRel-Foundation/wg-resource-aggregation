@@ -13,17 +13,25 @@ The outputs of this working group can be found in these repositories:
 - [Tools Catalog](https://github.com/DevRel-Foundation/tools-catalog)
 - [Events Directory](https://github.com/DevRel-Foundation/events-directory)
 
+## How-to Join the Working Group
+
+Everybody is welcome, no membership card or dues required.
+
+To join, sign-up for the working group distribution list.
+https://lists.dev-rel.org/g/wg-resource-aggregation
+
 ## Working Group Meetings
 
 Our working group primarily works asynchronously through activities in this reposititory. We will also have regular calls that will be scheduled to best accomodate participants. The dates and times for these will be shared on the mailing list and Discord.
 
-You can also check the working groups calendar:
+You can check the working groups calendar:
 https://lists.dev-rel.org/g/wg-resource-aggregation/calendar
+
+To receive meeting invites for your calendar, subscribe to the distribution list.
 
 ## Working Group Manager List
 
 Leadership for the working group is shared among the following managers.
-
 
 |    Name  | GH Handle |  Discord Handle |  LinkedIn  | 
 |    ---   |     ---   |      ---        |     ---    |
