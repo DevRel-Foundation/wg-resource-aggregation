@@ -8,10 +8,10 @@
 ## Q2
 
 Persona Library 1.0
-- [ ] We will have a repository to aggregate personas
-- [ ] We will collect at least two dozen representative educational resources into categories
-- [ ] We will have a schema or folder organization for what a minimal persona definition looks like
-- [ ] We will have a contribution guide
+- [x] We will have a repository to aggregate personas
+- [x] We will collect at least two dozen representative educational resources into categories
+- [x] We will have a schema or folder organization for what a minimal persona definition looks like
+- [x] We will have a contribution guide
 
 ## Q3
 
