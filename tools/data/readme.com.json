@@ -1,0 +1,8 @@
+{
+    "url": "https://readme.com",
+    "name": "Readme",
+    "description": "Content management system for developer documentation.",
+    "labels": ["documentation", "api spec"],
+    "task": ["how-to host documentation", "how-to write api specs"],
+    "personas": ["doc writer", "website creator"]
+}

@@ -1,0 +1,8 @@
+{
+    "url": "https://discourse.org",
+    "name": "Discourse",
+    "description": "Open-source, community-minded forum software.",
+    "labels": ["community forums"],
+    "task": ["how-to provide q&a online"],
+    "personas": ["community manager"]
+}
