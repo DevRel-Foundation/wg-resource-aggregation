@@ -1,4 +1,4 @@
-# Resources and Asset Aggregation Working Group
+# Resources Working Group
 Under the Developer Relations Foundation (DRF), the Resources and Asset Aggregation working group uses this repository for our work.
 
 - Our mission is to aggregate resources for a wide variety of use cases to support the Developer Relations professional community. This takes the form of a [Persona Library](https://github.com/DevRel-Foundation/persona-library), [Tools Catalog](https://github.com/DevRel-Foundation/tools-catalog), and [Events Directory](https://github.com/DevRel-Foundation/events-directory). Learn more about our mission from our [charter](./CHARTER.md).
@@ -8,10 +8,11 @@ Under the Developer Relations Foundation (DRF), the Resources and Asset Aggregat
 
 ## Working Group Initiatives
 
-The outputs of this working group can be found in these repositories:
-- [Persona Library](https://github.com/DevRel-Foundation/persona-library)
-- [Tools Catalog](https://github.com/DevRel-Foundation/tools-catalog)
-- [Events Directory](https://github.com/DevRel-Foundation/events-directory)
+| Project | Version - Lifecycle Status |
+| ------- | ------- | 
+| [Persona Library](https://github.com/DevRel-Foundation/persona-library) | 1.0 - Sandbox |
+| [Tools Catalog](https://github.com/DevRel-Foundation/tools-catalog) | 0.0 - Ideation |
+| [Events Directory](https://github.com/DevRel-Foundation/events-directory) | 0.0 - Ideation |
 
 ## How-to Join the Working Group
 
