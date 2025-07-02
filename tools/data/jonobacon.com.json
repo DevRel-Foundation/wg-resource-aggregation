@@ -1,0 +1,10 @@
+{
+    "url": "https://www.jonobacon.com/books/artofcommunity",
+    "name": "The Art of Community by Jono Bacon",
+    "description": "Book about building communities.",
+    "labels": ["book", "community"],
+    "task": [
+        "how-to build a strategy", 
+        "how-to manage a community"],
+    "personas": ["community manager", "new professional", "social media"]
+}

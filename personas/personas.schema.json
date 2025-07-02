@@ -1,0 +1,54 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://github.com/DevRel-Foundation/wg-resource-aggregation/blob/main/personas/personas.schema.json",
+    "title": "Personas",
+    "description": "Developer Relations Foundation persona descriptions.",
+    "version": "1.0",
+    "type": "object",
+    "properties": {
+        "url": {
+            "description": "The canonical URL to learn more about the persona.",
+            "type": "string"
+        },
+        "title": {
+            "description": "The primary job title used to identify the persona.",
+            "type": "string"
+        },
+        "industry": {
+            "description": "The industry in which the persona works.",
+            "type": "string"
+        },
+        "aliases": {
+            "description": "Additional job titles that may be used to identify this persona.",
+            "type": "array",
+            "items": {
+                "type": "string"
+            },
+            "uniqueItems": true
+        },
+        "tags": {
+            "description": "Labels that help categorize the type of persona.",
+            "type": "array",
+            "items": {
+                "type": "string"
+            },
+            "uniqueItems": true
+        },
+        "schema": {
+            "description": "Details about the schema the document follows.",
+            "type": "object",
+            "properties": {
+                "url": {
+                    "description": "The location of the schema.",
+                    "type": "string"
+                },
+                "version": {
+                    "description": "The version of the schema.",
+                    "type": "string"
+                }
+            }
+        }
+    },
+    "required": ["url", "name"],
+    "additionalProperties": false
+}
