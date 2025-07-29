@@ -16,10 +16,10 @@ Persona Library 1.0
 ## Q3
 
 Tools Catalog 1.0
-- [ ] We have a repository to aggregate tools
-- [ ] We will have a schema for what an tool definition looks like
-- [ ] We will collect at least two dozen tools into categories
-- [ ] We will have a contribution guide
+- [x] We have a repository to aggregate tools
+- [x] We will have a schema for what an tool definition looks like
+- [x] We will collect at least two dozen tools into categories
+- [x] We will have a contribution guide
 
 ## Q4
 
