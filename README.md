@@ -6,13 +6,13 @@ Under the Developer Relations Foundation (DRF), the Resources and Asset Aggregat
 - We welcome contributions and questions via GitHub [Discussions](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions) or [Issues](https://github.com/DevRel-Foundation/wg-resource-aggregation/issues) within this repository.
 - Our mailing list to subscribe for announcements is here: https://lists.dev-rel.org/g/wg-resource-aggregation
 
-## Working Group Initiatives
+## Working Group Projects
 
 | Project | Version - Lifecycle Status |
 | ------- | ------- | 
-| [Persona Library](https://github.com/DevRel-Foundation/persona-library) | 1.0 - Sandbox |
-| [Tools Catalog](https://github.com/DevRel-Foundation/tools-catalog) | 0.0 - Ideation |
-| [Events Directory](https://github.com/DevRel-Foundation/events-directory) | 0.0 - Ideation |
+| [Persona Library](https://github.com/DevRel-Foundation/persona-library) | 1.0 - Incubation |
+| [Tools Catalog](https://github.com/DevRel-Foundation/tools-catalog) | 1.0 - Incubation |
+| [Events Directory](https://github.com/DevRel-Foundation/events-directory) | 0.0 - Sandbox |
 
 ## How-to Join the Working Group
 
@@ -28,7 +28,7 @@ Our working group primarily works asynchronously through activities in this repo
 You can check the working groups calendar:
 https://lists.dev-rel.org/g/wg-resource-aggregation/calendar
 
-To receive meeting invites for your calendar, subscribe to the distribution list.
+To receive meeting invites and updates for your calendar, subscribe to the distribution list.
 
 ## Working Group Manager List
 
