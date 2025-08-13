@@ -6,7 +6,7 @@ Under the Developer Relations Foundation (DRF), the **Resources Working Group** 
 - We welcome contributions and questions via GitHub [Discussions](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions) or [Issues](https://github.com/DevRel-Foundation/wg-resource-aggregation/issues) within this repository.
 - Our mailing list to subscribe for announcements is here: https://lists.dev-rel.org/g/wg-resource-aggregation
 
-## Working Group Initiatives
+## Working Group Projects
 
 | Project | Version - Lifecycle Status |
 | ------- | ------- | 
@@ -30,7 +30,7 @@ Our working group primarily works asynchronously through activities in the issue
 You can check the community calendar for working group sessions:
 https://dev-rel.org/calendar
 
-To receive meeting invites for your calendar, subscribe to the distribution list.
+To receive meeting invites and updates for your calendar, subscribe to the distribution list.
 
 ## Working Group Manager List
 
