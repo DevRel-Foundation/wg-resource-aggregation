@@ -1,8 +1,8 @@
 # Resources Working Group
-Under the Developer Relations Foundation (DRF), the Resources and Asset Aggregation working group uses this repository for our work.
+Under the Developer Relations Foundation (DRF), the **Resources Working Group** uses this repository for our work.
 
 - Our mission is to aggregate resources for a wide variety of use cases to support the Developer Relations professional community. This takes the form of a [Persona Library](https://github.com/DevRel-Foundation/persona-library), [Tools Catalog](https://github.com/DevRel-Foundation/tools-catalog), and [Events Directory](https://github.com/DevRel-Foundation/events-directory). Learn more about our mission from our [charter](./CHARTER.md).
-- Our progress on our strategic [goals](./GOALS.md) for the year can be followed through GitHub [Projects](https://github.com/DevRel-Foundation/wg-resource-aggregation/projects?query=is%3Aopen).
+- Progress on our strategic [goals](./GOALS.md) for the year can be followed through GitHub [Projects](https://github.com/DevRel-Foundation/wg-resource-aggregation/projects?query=is%3Aopen).
 - We welcome contributions and questions via GitHub [Discussions](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions) or [Issues](https://github.com/DevRel-Foundation/wg-resource-aggregation/issues) within this repository.
 - Our mailing list to subscribe for announcements is here: https://lists.dev-rel.org/g/wg-resource-aggregation
 
@@ -10,8 +10,8 @@ Under the Developer Relations Foundation (DRF), the Resources and Asset Aggregat
 
 | Project | Version - Lifecycle Status |
 | ------- | ------- | 
-| [Persona Library](https://github.com/DevRel-Foundation/persona-library) | 1.0 - Incubation |
-| [Tools Catalog](https://github.com/DevRel-Foundation/tools-catalog) | 1.0 - Incubation |
+| [Persona Library](https://github.com/DevRel-Foundation/persona-library) | 1.0 - Incubating |
+| [Tools Catalog](https://github.com/DevRel-Foundation/tools-catalog) | 1.0 - Incubating |
 | [Events Directory](https://github.com/DevRel-Foundation/events-directory) | 0.0 - Sandbox |
 
 ## How-to Join the Working Group
@@ -21,12 +21,14 @@ Everybody is welcome, no membership card or dues required.
 To join, sign-up for the working group distribution list.
 https://lists.dev-rel.org/g/wg-resource-aggregation
 
+Join the #resource-aggregation on Discord.
+
 ## Working Group Meetings
 
-Our working group primarily works asynchronously through activities in this reposititory. We will also have regular calls that will be scheduled to best accomodate participants. The dates and times for these will be shared on the mailing list and Discord.
+Our working group primarily works asynchronously through activities in the issues of this reposititory. We also have regular calls that will be scheduled to best accomodate participants. The dates and times for these will be shared on the mailing list and Discord.
 
-You can check the working groups calendar:
-https://lists.dev-rel.org/g/wg-resource-aggregation/calendar
+You can check the community calendar for working group sessions:
+https://dev-rel.org/calendar
 
 To receive meeting invites and updates for your calendar, subscribe to the distribution list.
 
@@ -48,6 +50,4 @@ See the [License and Intellectual Property](https://github.com/DevRel-Foundation
 
 # About the Developer Relations Foundation
 
-To learn more about the Developer Relations Foundation, visit the [FAQ](https://github.com/DevRel-Foundation#faq) for general information.
-
-If you still have additional questions, reach out to steering-committee (at) dev-rel.org
+To learn more about the **Developer Relations Foundation** visit: https://dev-rel.org/
