@@ -2,7 +2,7 @@
 
 ## 1. Working Group Definition
 
-The **Resources Working Group** was formed to aggregate and make assessible assets that support DevRel practitioners to elevate their professional practices.
+The **Resources Working Group** was formed to aggregate and make assessible assets that support DevRel practitioners and elevate their professional practices. This is done fundamentally by _sourcing_, curating existing community expertise and industry frameworks, and _innovation_ to mobilize targeted, content creation with specific objectives that build a living and evolving knowledge base.
 
 ### 1.1 Process for Aggregating Resources
 
