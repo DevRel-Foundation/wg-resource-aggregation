@@ -195,6 +195,12 @@ The Linux Foundation provides access to [PCC](https://docs.linuxfoundation.org/l
 
 The DevRel Foundation provides support through administration of GitHub repositories with features like GitHub Actions that enable the review, processing and aggregation of resources. These will be maintained independent of one another and the repository for the working group itself.
 
+#### 4.2.1 Working Group and Project Repositories
+
+This working group repository will be used for the operations of the working group itself and the project management of initiatives during their early sandbox and incubation phases (see Project Lifecycle Stages in section 6.1).
+
+By centrally managing issues and discussions we can leverage working group contributors across multiple initiatives and invite wider feedback early in development. As projects mature to the graduated phase, all issue management and discussions can move to those individual project repositories under the DevRel-Foundation GitHub organization.
+
 ## 5. Governance
 
 All Working Groups within the DevRel Foundation must: 
@@ -280,9 +286,9 @@ For more information:
 
 ## 7. Revision History
 
-The charter as described here has been reviewed and approved by the working group managers and foundation steering committee. (_Feb 2025_)
+The original charter as described here has been reviewed and approved by the working group managers and foundation steering committee. (_Feb 2025_)
 
-### 2025-09-02
+### Amendments (_Sep 2025_)
 
 - Rebranding of Resource Aggregation to be just Resources.
 - Definition of projects (section 6) and split manager responsibilities into project leads (2.1.4).
