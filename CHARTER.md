@@ -222,7 +222,7 @@ Projects this working group undertakes includes themes such as:
 - Curate a directory of DevRel-specific software and tools.
 - Maintain an events directory to support engagement in industry events.
 - Collect a database of metrics and measurements that report performance of DevRel activities.
-- Gather standards of organizational traits and terms that help with understanding DevRel structure and roles.
+- Create a standard understanding and definitions of organizational traits for a dev rel maturity model.
 - Manage a publicly accessbile website for exploring resources of use to DevRel practitioners.
 
 ### 6.1 Project Lifecycle
