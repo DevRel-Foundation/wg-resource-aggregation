@@ -1,46 +1,55 @@
-# Resources Working Group
-Under the Developer Relations Foundation (DRF), the **Resources Working Group** uses this repository for our work.
 
-- Our mission is to aggregate resources for a wide variety of use cases to support the Developer Relations professional community. This takes the form of a [Persona Library](https://github.com/DevRel-Foundation/persona-library), [Tools Catalog](https://github.com/DevRel-Foundation/tools-catalog), and [Events Directory](https://github.com/DevRel-Foundation/events-directory). Learn more about our mission from our [charter](./CHARTER.md).
-- Progress on our strategic [goals](./GOALS.md) for the year can be followed through GitHub [Projects](https://github.com/DevRel-Foundation/wg-resource-aggregation/projects?query=is%3Aopen).
-- We welcome contributions and questions via GitHub [Discussions](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions) or [Issues](https://github.com/DevRel-Foundation/wg-resource-aggregation/issues) within this repository.
-- Our mailing list to subscribe for announcements is here: https://lists.dev-rel.org/g/wg-resource-aggregation
+# Resources Working Group
+
+The **Resources Working Group** is a focused group within the [Developer Relations Foundation](https://dev-rel.org) (DRF) that aims to aggregate resources that support the mission of elevating the professional practice of Developer Relations. This is accomplished by sourcing existing assets already created by others in the community and by innovating in the creation of new projects to fill in gaps and increase accessibility to the professional tactics of the role.
+
+- Learn more about the vision for this working group by reviewing our [charter](./CHARTER.md).
+- Progress on our strategic [goals](./GOALS.md) for the year can be followed through our [GitHub Projects](https://github.com/DevRel-Foundation/wg-resource-aggregation/projects?query=is%3Aopen) and [Milestones](https://github.com/DevRel-Foundation/wg-resource-aggregation/milestones).
+- The group is open for anybody to join and we welcome contributions and questions via GitHub [Discussions](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions) or [Issues]() within this repository. 
+- You can join one of our regular working group live calls found on the [Community Calendar](https://dev-rel.org/calendar) to participate in the conversation.
+- Subscribe to the [distribution list](https://lists.dev-rel.org/g/wg-resource-aggregation) to receive the monthly working group update.
+
+## Joining the Working Group
+
+Everybody is welcome, no membership card or dues required. To join, sign-up for the working group distribution list so that you receive our monthly update and invitations to the working group calls.
+
+https://lists.dev-rel.org/g/wg-resource-aggregation
+
+Join the #resource-aggregation on Discord for chatting with the group.
 
 ## Working Group Projects
 
-| Project | Version - Lifecycle Status |
-| ------- | ------- | 
-| [Persona Library](https://github.com/DevRel-Foundation/persona-library) | 1.0 - Incubating |
-| [Tools Catalog](https://github.com/DevRel-Foundation/tools-catalog) | 1.0 - Incubating |
-| [Events Directory](https://github.com/DevRel-Foundation/events-directory) | 0.0 - Sandbox |
+We organize our work into projects. Projects help the working group accomplish its objectives through the completion of a series of tasks that result in producing outputs.
 
-## How-to Join the Working Group
+| Project | Version | Lifecycle | Lead | Advocate | Discussions | Issues |
+| ------- | ------- | --- | ---- | ---- | ---- | ---- |
+| [Persona Library](https://github.com/DevRel-Foundation/persona-library) | 1.0 | Incubating | [@j12y](https://github.com/j12y) | TBD | [discuss](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions/categories/persona-library) | [feedback](https://github.com/DevRel-Foundation/wg-resource-aggregation/issues?q=is%3Aissue%20state%3Aopen%20label%3Aresource%3Apersonas) |
+| [Tools Catalog](https://github.com/DevRel-Foundation/tools-catalog) | 1.0 | Incubating | [@j12y](https://github.com/j12y)| TBD | [discuss](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions/categories/tools-catalog) | [feedback](https://github.com/DevRel-Foundation/wg-resource-aggregation/issues?q=is%3Aissue%20state%3Aopen%20label%3Aresource%3Atools) | 
+| [Events Directory](https://github.com/DevRel-Foundation/events-directory) | 0.0 | Sandbox | [@j12y](https://github.com/j12y) | TBD | [discuss](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions/categories/events-directory) | [feedback](https://github.com/DevRel-Foundation/wg-resource-aggregation/issues?q=is%3Aissue%20state%3Aopen%20label%3Aresource%3Aevents) |
+| Metrics Index | 0.0 | Sandbox | TBD | TBD | [discuss](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions/categories/metrics-index) | [feedback](https://github.com/DevRel-Foundation/wg-resource-aggregation/issues?q=is%3Aissue%20state%3Aopen%20label%3Aresource%3Ametrics) | 
+| Dev Rel Maturity Model | 0.0 | Sandbox | TBD | TBD | [discuss](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions/categories/devrel-maturity-model) | [feedback](https://github.com/DevRel-Foundation/wg-resource-aggregation/issues?q=is%3Aissue%20state%3Aopen%20label%3Aresource%3Adrmm) |
 
-Everybody is welcome, no membership card or dues required.
+If you want to propose a project, take on a project lead role, or be an advocate for a project please attend one of the Resources Working Group calls and share your interest.
 
-To join, sign-up for the working group distribution list.
-https://lists.dev-rel.org/g/wg-resource-aggregation
+For more about these and other projects, visit https://dev-rel.org/projects. 
 
-Join the #resource-aggregation on Discord.
+## Working Group Calls
 
-## Working Group Meetings
+Our working group primarily works asynchronously through activities within GitHub Issues and Discussions of this reposititory. We host regular general working group calls to help orient new members, share updates on projects, and answer any questions.
 
-Our working group primarily works asynchronously through activities in the issues of this reposititory. We also have regular calls that will be scheduled to best accomodate participants. The dates and times for these will be shared on the mailing list and Discord.
+We have monthly video calls scheduled to try and best accomodate participants.
+- Working Group Call (AMER)
+- Working Group Call (APAC)
 
-You can check the community calendar for working group sessions:
+The agenda for working group calls can be found in [Working Group Calls](https://github.com/DevRel-Foundation/wg-resource-aggregation/discussions/categories/working-group-calls) section. To receive calendar invites and updates for these calls, subscribe to the [distribution list](https://lists.dev-rel.org/g/wg-resource-aggregation).
+
+The calls are also published to the general community calendar:
 https://dev-rel.org/calendar
 
-To receive meeting invites and updates for your calendar, subscribe to the distribution list.
 
-## Working Group Manager List
+## Contact Us
 
-Leadership for the working group is shared among the following managers.
-
-|    Name  | GH Handle |  Discord Handle |  LinkedIn  | 
-|    ---   |     ---   |      ---        |     ---    |
-| Rob Earlam | [@RobEarlam](https://github.com/robearlam) | @RobE | [Rob-Earlam](https://linkedin.com/in/rob-earlam/) |
-| Jayson DeLancey | [@j12y](https://github.com/j12y) |     @j12y    | [jaysondelancey](https://linkedin.com/in/jaysondelancey) |
-| Oleg Nenashev | [@oleg-nenashev](https://github.com/oleg-nenashev) |     @onenashev    | [onenashev](https://www.linkedin.com/in/onenashev/) |
+Visit https://dev-rel.org/contact or ping [@devrel-foundation/wg-resource-aggregation-managers](https://github.com/orgs/DevRel-Foundation/teams/wg-resource-aggregation-managers) if you need assistance.
 
 ## License
 
